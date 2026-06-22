@@ -10,7 +10,7 @@
 
 <h2>Introduction</h2>
 <p>
-<a href="https://artarium.com/collections/luxury-home-decor">Luxury home decor</a> is more than just expensive furniture or stylish interiors—it is the art of creating a refined, comfortable, and visually stunning living environment. It reflects personal taste, lifestyle, and attention to detail. A well-designed luxury home balances aesthetics with functionality, ensuring every element contributes to an atmosphere of elegance and sophistication.
+<a>Luxury home decor </a>is more than just expensive furniture or stylish interiors—it is the art of creating a refined, comfortable, and visually stunning living environment. It reflects personal taste, lifestyle, and attention to detail. A well-designed luxury home balances aesthetics with functionality, ensuring every element contributes to an atmosphere of elegance and sophistication.
 </p>
 
 <p>
@@ -46,7 +46,7 @@ Adding textures like velvet cushions, silk curtains, or marble surfaces enhances
 
 <h2>Elegant Bedroom Interior Design</h2>
 <p>
-A luxury bedroom is designed to be a private sanctuary. It focuses on comfort, tranquility, and soft aesthetics. The bed is the focal point, often featuring upholstered headboards and premium bedding materials like Egyptian cotton or silk.
+A <a href="https://artarium.com/collections/luxury-home-decor">Luxury home decor</a> bedroom is designed to be a private sanctuary. It focuses on comfort, tranquility, and soft aesthetics. The bed is the focal point, often featuring upholstered headboards and premium bedding materials like Egyptian cotton or silk.
 </p>
 
 <p>
